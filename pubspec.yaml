@@ -32,11 +32,13 @@ dependencies:
     sdk: flutter
   atproto: ^0.13.3
   http: ^1.3.0
-  video_player: ^2.9.1  # Update to the latest version
+  video_player: ^2.9.2
   cached_network_image: ^3.3.1
   cupertino_icons: ^1.0.8
   bluesky: ^0.18.10
   connectivity_plus: ^6.0.5
+  chewie: ^1.8.3
+  visibility_detector: ^0.4.0+2
 
 dev_dependencies:
   flutter_test:
